@@ -1,0 +1,25 @@
+
+
+
+/* iPhone XR/6 :) */
+
+@media only screen and (max-width: 763PX) {
+
+  .main_section{
+    padding: 5%;
+  }
+  .products{
+    display: block;
+    height: auto;
+    padding: 5%;
+  }
+  .product{
+    margin-top: auto;
+  }
+  .beneficios{
+    display: initial;
+  }
+  .mentions{
+    display: initial;
+  }
+}
